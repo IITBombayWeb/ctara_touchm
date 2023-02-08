@@ -86,8 +86,8 @@ drupal_add_js('jQuery(document).ready(function(){
 				  <?php endif; ?>
 			</div>
    <div class="djlogo">
-        <a href="http://www.iitb.ac.in/en/diamond-jubilee-celebrations-2018/" target="_blank">
-        <img src="<?php print $serverlink;?>/sites/all/themes/touchm/iitb-dj.png" alt="Diamond Jubilee Logo" /></a>
+        <a href="https://www.iitb.ac.in/en/azadi-ka-amrit-mahotsav" target="_blank">
+        <img src="<?php print $serverlink;?>/sites/www.ctara.iitb.ac.in/themes/touchm/azadi_g20_logo.png" alt="Azadi ka Amrit Mahostav" /></a>
     </div>
 
       <?php } ?>
